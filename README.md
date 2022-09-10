@@ -1,3 +1,3 @@
 # odin-recipes
 
-Making some recipes.
+Making some recipes...
